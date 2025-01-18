@@ -22,5 +22,8 @@ Welcome to the Sell Gift Card website! This project is a beautifully designed we
    ```bash
    git clone https://github.com/Karamdargham12/SellGiftCards.git
 
-2. npm install
-3. npm run build-css
+2. ```bash
+   npm install
+
+3. ```bash
+   npm run build-css
